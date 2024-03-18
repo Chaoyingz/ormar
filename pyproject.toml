@@ -43,7 +43,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.8.0"
 databases = "^0.7.0"
-pydantic = "v2.5.3"
+pydantic = "^v2.5.3"
 SQLAlchemy = "^1.4.42"
 cryptography = { version = "^41.0.3", optional = true }
 # Async database drivers
